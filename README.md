@@ -5,4 +5,5 @@ For my Sustainable Supply Chain Management course that I took for my major, we d
 
 The files included above are 
 1) The overview/prompt for the project provided by the Harvard Business Review
-2) 
+2) The Microsoft Excel file using the Solver add-in that determined the final results
+3) The business report translating the results into non-technical terms to present to the DHL executives
